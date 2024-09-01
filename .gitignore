@@ -1,0 +1,16 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+/local.properties
+/.idea/
+/*.iml
+/.gradle/
+# Ignore build outputs
+/build/
+/app/build/
+# Ignore more specific .idea files
+/.idea/modules.xml
+/.idea/.name
+# Ignore generated files and dependency caches
+.gradle/
+local.properties
